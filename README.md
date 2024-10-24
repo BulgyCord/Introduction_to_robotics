@@ -49,4 +49,11 @@ The availability LED turns green again.
 
 If at any point from the start of the charging process to its completion the stop button is pressed and held (for at least 1 second), the charging process will be interrupted by the final animation (all LEDs blink 3 times), and the availability LED will turn green.
 
+_Wokwi configuration_
+![64C3A504-2BFD-45B2-92D1-FB4B7033BAA6](https://github.com/user-attachments/assets/81338534-1bf1-43a5-a29e-e8c89dfdfc46)
 
+_Physical configuration_
+![5921B127-2379-4B8D-BD58-FA8FBD70D639](https://github.com/user-attachments/assets/926b46dd-b35a-4500-8b9e-abf79f108c15)
+
+_Demonstration video_
+https://drive.google.com/file/d/1-nfJHyRTKYhNsfqe5cAyOKlRrkdF_UZ_/view?usp=drivesdk
