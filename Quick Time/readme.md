@@ -8,12 +8,19 @@ Each player will have their own buttons and LEDs, and the game will consist of m
 _3.2 Components_
 
 -6x LEDs (2 groups of 3 LEDs, each group must have different colors)
+
 -2x RGB LEDs (1 for each player)
+
 -6x Buttons (3 for each player)
+
 -1x LCD
+
 -1x Servo motor
+
 -2x Breadboards
+
 -Wires
+
 -2x Arduino Uno
 
 _3.3 Flow_
